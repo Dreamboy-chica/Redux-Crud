@@ -1,0 +1,17 @@
+/* create.css */
+.form-control.no-outline:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.res
+{
+    margin-left:500px;
+    margin-top:20px;
+}
+
+
+.outline:focus{
+box-shadow:none;
+
+}
